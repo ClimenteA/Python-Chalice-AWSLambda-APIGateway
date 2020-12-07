@@ -1,0 +1,32 @@
+{
+    "productId": 42, 
+    "sku": "QWEQWEW-42", 
+    "productName": "Ultimate killer v3.0 | CI ltd.", 
+    "price": {
+        "productPrice": "35.8 GBP", 
+        "priceCurrency": "British Pound"
+    }, 
+
+    "details": {
+        "productDescription": "A very good product", 
+        "powerRequired": "a lot", 
+        "productKeywords": "chalice, serverless, python"
+    }, 
+    
+    "media": {"images": ["", ""]}, 
+    "category": "some category", 
+    "brand": "CI ltd.", 
+    
+    "ratings": {
+        "avgRating": "5", 
+        "ratingCount": "5", 
+        "ratedSince": "5655-53-24 09:15:00"
+    }, 
+
+    "availabilty": {
+        "stage": "Beta", 
+        "status": "Pre-order"
+    }, 
+    
+    "dateAdded": "1955-11-05 22:04:00"
+}
