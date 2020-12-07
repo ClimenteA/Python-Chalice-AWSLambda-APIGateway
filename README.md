@@ -1,4 +1,4 @@
-# Python AWS Serverless API 
+# Python AWS Serverless API (Example)
 A CRUD serverless small api built with AWS Chalice, AWS Functions and MongoDB Atlas.
 
 - This api fetches json product data from a given URL;
