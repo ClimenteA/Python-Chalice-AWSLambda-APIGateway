@@ -25,7 +25,7 @@ def index():
 
 # http POST localhost:8000/products
 # http POST localhost:8000/products URL="https://bad-url.nogood"
-
+# http POST localhost:8000/products URL="https://raw.githubusercontent.com/ClimenteA/Python-Chalice-AWSLambda-APIGateway/main/retailer-data.json"
 # image_list = [
 #     "https://softgata.com/assets/django.png",
 #     "https://softgata.com/assets/fastapi.svg",

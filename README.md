@@ -1,4 +1,4 @@
-# Python-Chalice-AWSLambda-APIGateway
+# Python AWS Serverless API 
 A CRUD serverless small api built with AWS Chalice, AWS Functions and MongoDB Atlas.
 
 - This api fetches json product data from a given URL;
@@ -34,7 +34,7 @@ Testing was made manually with [httpie](https://httpie.io) and automated with py
 
 # API
 
-- http localhost:8000/products
+Api can be used at `/products` with URL specified in the body.
 
-
+URL="https://raw.githubusercontent.com/ClimenteA/Python-Chalice-AWSLambda-APIGateway/main/retailer-data.json"
 
